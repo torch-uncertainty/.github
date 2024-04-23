@@ -4,4 +4,4 @@
 
 This organization includes repositories for the correct operation of the [TorchUncertainty library](https://github.com/ENSTA-U2IS-AI/torch-uncertainty).
 
-Join us and contribute to building the most comprehensive PyTorch Uncertainty Quantification library.
+Join us and contribute to building the most comprehensive open-source PyTorch uncertainty quantification library.
